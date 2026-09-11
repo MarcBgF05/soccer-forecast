@@ -4,6 +4,7 @@ matplotlib
 scikit-learn
 numpy 
 seaborn
+scipy
 
 # Google Adk 
 google-adk

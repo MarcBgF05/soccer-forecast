@@ -1,0 +1,30 @@
+# Machine Learning
+pandas
+matplotlib
+scikit-learn
+numpy 
+
+# Google Adk 
+google-adk
+pydantic
+# google-cloud-aiplatform[adk,agent_engines]
+litellm
+
+# extras
+python-dotenv
+python-docx>=0.8.11
+
+# oauth
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+
+# Some extra libraries for working with langchain and LLMs
+langchain
+langchain-openai
+langchain-google-genai
+langchain-core  
+
+# To create a chat 
+streamlit
+
